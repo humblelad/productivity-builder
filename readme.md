@@ -10,9 +10,8 @@ Starting of Month mention the date.
 
   
   A) IF YOU DID SOMETHING MEANINNGFUL TYPE 1 AND COMMIT; next day 2.
-  B) IF NOT TYPE -1 AND COMMIT . 
-  C) AT THE END OF EACH MONTH ADD IT UP. 
-  D) TRY TO MAKE SURE THE PERCENTAGE IS ATLEAST ABOVE 80%
+  B) AT THE END OF EACH MONTH ADD IT UP. 
+  C) TRY TO MAKE SURE THE PERCENTAGE IS ATLEAST ABOVE 80%
   
   A demonstration file is available in the repo!
   
